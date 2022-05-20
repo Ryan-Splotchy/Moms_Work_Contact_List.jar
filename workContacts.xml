@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<company_name>Company Name</company_name>
+	<name>Name</name>
+	<phone_number>Phone Number</phone_number>
+	<notes>Email/Optional Notes</notes>
+</contact>
+<contact>
+	<company_name>Company Name</company_name>
+	<name>Name</name>
+	<phone_number>Phone Number</phone_number>
+	<notes>Email/Optional Notes</notes>
+</contact>
+<contact>
+	<company_name>Company Name</company_name>
+	<name>Name</name>
+	<phone_number>Phone Number</phone_number>
+	<notes>Email/Optional Notes</notes>
+</contact>
+</contacts>
